@@ -1,0 +1,16 @@
+body {
+	background-color: rgb(46, 160, 180);
+	color:rgb(255, 255, 255);
+	text-align: center;
+}
+
+p{}
+
+#cat-container {
+	margin-top: 30px;
+	background-color: rgb(243, 208, 241);
+}
+
+#cat-container img {
+	width: 300px;
+}
